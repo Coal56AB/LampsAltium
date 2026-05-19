@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=Lamp_multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Lamp_board\Lamps_board.PrjPcb
+Record=SubProject|SourceDocument=Lamp_multiboard.MbsDoc|ProjectPath=..\Lamp_board\Lamps_board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Lamp_multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\Lamp_buttons\Lamps_buttons.PrjPcb
+Record=SubProject|SourceDocument=Lamp_multiboard.MbsDoc|ProjectPath=..\Lamp_buttons\Lamps_buttons.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Lamp_multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Lamp_motherboard\Lamp_motherboard.PrjPcb
+Record=SubProject|SourceDocument=Lamp_multiboard.MbsDoc|ProjectPath=..\Lamp_motherboard\Lamp_motherboard.PrjPcb
