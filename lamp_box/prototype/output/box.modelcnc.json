@@ -1,0 +1,231 @@
+{
+    "assets": [
+        {
+            "depth": 85.5,
+            "flip": false,
+            "height": 3,
+            "id": "cda37b65-8208-4398-82ae-5357073abb0c",
+            "path": "bottom.STL",
+            "width": 115,
+            "zAxis": 2
+        },
+        {
+            "depth": 85.5,
+            "flip": false,
+            "height": 3,
+            "id": "d3f84bb2-0b85-4ad4-a4d2-081c92e9a04c",
+            "path": "bottom_lower.STL",
+            "width": 115,
+            "zAxis": 2
+        },
+        {
+            "depth": 81.5,
+            "flip": true,
+            "height": 3,
+            "id": "0b6f704e-6894-4d01-b8d8-bd285d1a050e",
+            "path": "top.STL",
+            "width": 111,
+            "zAxis": 2
+        },
+        {
+            "depth": 10,
+            "flip": true,
+            "height": 3,
+            "id": "d1d8aa2f-7db6-4141-a169-a8bca953b974",
+            "path": "button_cap_square_plywood.STL",
+            "width": 10,
+            "zAxis": 2
+        },
+        {
+            "depth": 111,
+            "flip": true,
+            "height": 3,
+            "id": "7b30cb02-ca2c-4a05-8f2b-81df606c9ef1",
+            "path": "front.STL",
+            "width": 31.5,
+            "zAxis": 1
+        },
+        {
+            "depth": 50,
+            "flip": false,
+            "height": 3,
+            "id": "50e09916-3e50-43d7-90b7-ed90800ea491",
+            "path": "rail_lower.STL",
+            "width": 10,
+            "zAxis": 2
+        },
+        {
+            "depth": 111,
+            "flip": false,
+            "height": 3,
+            "id": "951018e6-26ba-40db-853d-d5451b2ab43c",
+            "path": "rear.STL",
+            "width": 31.5,
+            "zAxis": 1
+        },
+        {
+            "depth": 31.5,
+            "flip": false,
+            "height": 3,
+            "id": "3b07dfb4-edba-4edb-9a7e-d791ca9f13fd",
+            "path": "side.STL",
+            "width": 75.5,
+            "zAxis": 0
+        },
+        {
+            "depth": 85.5,
+            "flip": false,
+            "height": 3,
+            "id": "6276d813-d761-4f6a-8395-6fa085364b11",
+            "path": "bottom.STL",
+            "width": 115,
+            "zAxis": 2
+        },
+        {
+            "depth": 85.5,
+            "flip": false,
+            "height": 3,
+            "id": "b2f391f9-e5cb-4af1-b732-03c633dff1b9",
+            "path": "bottom_lower.STL",
+            "width": 115,
+            "zAxis": 2
+        },
+        {
+            "depth": 81.5,
+            "flip": true,
+            "height": 3,
+            "id": "3e5a44b9-23be-47a8-a736-2c3ef65cb0c6",
+            "path": "top.STL",
+            "width": 111,
+            "zAxis": 2
+        },
+        {
+            "depth": 31.5,
+            "flip": false,
+            "height": 3,
+            "id": "76f8c7a0-ff7b-4d74-8a14-a14f223e3580",
+            "path": "side_left.STL",
+            "width": 75.5,
+            "zAxis": 0
+        },
+        {
+            "depth": 31.5,
+            "flip": true,
+            "height": 3.000000238418579,
+            "id": "226b26be-4b85-4bca-a6c3-bea093188885",
+            "path": "side_right.STL",
+            "width": 75.5,
+            "zAxis": 0
+        }
+    ],
+    "instances": [
+        {
+            "assetId": "7b30cb02-ca2c-4a05-8f2b-81df606c9ef1",
+            "enabled": true,
+            "id": "c252ba29-d760-4044-87b3-5151b7300d13",
+            "mirrorX": true,
+            "mirrorY": false,
+            "rotation": 270,
+            "scale": 1,
+            "x": 2,
+            "y": 173.2
+        },
+        {
+            "assetId": "951018e6-26ba-40db-853d-d5451b2ab43c",
+            "enabled": true,
+            "id": "e7e2a08f-1eab-46bd-914b-3c2efc7e9d19",
+            "mirrorX": true,
+            "mirrorY": false,
+            "rotation": 270,
+            "scale": 1,
+            "x": 120,
+            "y": 173.2
+        },
+        {
+            "assetId": "6276d813-d761-4f6a-8395-6fa085364b11",
+            "enabled": true,
+            "id": "f985958a-8751-4c56-9f31-4140771333be",
+            "mirrorX": true,
+            "mirrorY": false,
+            "rotation": 180,
+            "scale": 1,
+            "x": 118,
+            "y": 0.2
+        },
+        {
+            "assetId": "b2f391f9-e5cb-4af1-b732-03c633dff1b9",
+            "enabled": true,
+            "id": "5134dd7f-7092-4d1f-bf0d-a84b5fb8320f",
+            "mirrorX": false,
+            "mirrorY": false,
+            "rotation": 0,
+            "scale": 1,
+            "x": 0,
+            "y": 0.3
+        },
+        {
+            "assetId": "3e5a44b9-23be-47a8-a736-2c3ef65cb0c6",
+            "enabled": true,
+            "id": "5ff51d68-292c-458a-954c-f84c36a0539a",
+            "mirrorX": true,
+            "mirrorY": false,
+            "rotation": 0,
+            "scale": 1,
+            "x": 120,
+            "y": 88.7
+        },
+        {
+            "assetId": "76f8c7a0-ff7b-4d74-8a14-a14f223e3580",
+            "enabled": true,
+            "id": "b97ec3c6-8b63-43d4-bd8f-36aabe6b2f7d",
+            "mirrorX": false,
+            "mirrorY": false,
+            "rotation": 0,
+            "scale": 1,
+            "x": 2,
+            "y": 135
+        },
+        {
+            "assetId": "226b26be-4b85-4bca-a6c3-bea093188885",
+            "enabled": true,
+            "id": "e44f60a1-69d0-486e-8ce8-6d306000c1b0",
+            "mirrorX": false,
+            "mirrorY": false,
+            "rotation": 0,
+            "scale": 1,
+            "x": 2,
+            "y": 95
+        }
+    ],
+    "outputDir": "../../Candle-master/build-vs/src/candle/cam-output",
+    "outputFile": "models.nc",
+    "settings": {
+        "clearHoleMaterial": false,
+        "cutterDiameter": 3,
+        "feedrateRapid": 800,
+        "feedrateXY": 400,
+        "feedrateZ": 100,
+        "includeMCommands": true,
+        "spindleSpeed": 10000,
+        "stepDown": 1,
+        "stepOver": 0.45,
+        "tabWidth": 0.5,
+        "tabsEnabled": true,
+        "throughCutExtraDepth": 0.2,
+        "travelZ": 3
+    },
+    "setup": {
+        "flipStock": false,
+        "index": 0,
+        "mirrorX": false,
+        "mirrorY": false,
+        "side": "auto"
+    },
+    "stock": {
+        "depth": 205,
+        "thickness": 3,
+        "width": 233
+    },
+    "type": "gerbercnc-model-project",
+    "version": 2
+}

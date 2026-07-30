@@ -1,0 +1,82 @@
+{
+    "assets": [
+        {
+            "depth": 10,
+            "flip": true,
+            "height": 3,
+            "id": "bed52e30-c52f-46c4-87f4-adee1ca34d21",
+            "path": "button_cap_square_plywood.STL",
+            "width": 10,
+            "zAxis": 2
+        }
+    ],
+    "instances": [
+        {
+            "assetId": "bed52e30-c52f-46c4-87f4-adee1ca34d21",
+            "enabled": true,
+            "id": "6ce411d9-ff5c-4fd2-9384-350561c98fc4",
+            "rotation": 0,
+            "scale": 1,
+            "x": 5,
+            "y": 25
+        },
+        {
+            "assetId": "bed52e30-c52f-46c4-87f4-adee1ca34d21",
+            "enabled": true,
+            "id": "a149f5e2-58d8-4bd8-b1c4-9836ad268bd9",
+            "rotation": 0,
+            "scale": 1,
+            "x": 25,
+            "y": 25
+        },
+        {
+            "assetId": "bed52e30-c52f-46c4-87f4-adee1ca34d21",
+            "enabled": true,
+            "id": "5e6d9802-039b-427b-a939-04f06dad7e7a",
+            "rotation": 0,
+            "scale": 1,
+            "x": 5,
+            "y": 5
+        },
+        {
+            "assetId": "bed52e30-c52f-46c4-87f4-adee1ca34d21",
+            "enabled": true,
+            "id": "62b5b8b8-90e3-4364-abc3-4309a6328d05",
+            "rotation": 0,
+            "scale": 1,
+            "x": 25,
+            "y": 5
+        }
+    ],
+    "outputDir": "../../Candle-master/build-vs/src/candle/cam-output",
+    "outputFile": "models.nc",
+    "settings": {
+        "clearHoleMaterial": false,
+        "cutterDiameter": 0.9,
+        "feedrateRapid": 800,
+        "feedrateXY": 400,
+        "feedrateZ": 100,
+        "includeMCommands": true,
+        "spindleSpeed": 10000,
+        "stepDown": 1,
+        "stepOver": 0.45,
+        "tabWidth": 0.5,
+        "tabsEnabled": true,
+        "throughCutExtraDepth": 0.2,
+        "travelZ": 2
+    },
+    "setup": {
+        "flipStock": false,
+        "index": 0,
+        "mirrorX": true,
+        "mirrorY": false,
+        "side": "auto"
+    },
+    "stock": {
+        "depth": 40,
+        "thickness": 3,
+        "width": 40
+    },
+    "type": "gerbercnc-model-project",
+    "version": 1
+}
