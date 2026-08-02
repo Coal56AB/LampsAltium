@@ -167,7 +167,7 @@
             "assetId": "3e5a44b9-23be-47a8-a736-2c3ef65cb0c6",
             "enabled": true,
             "id": "5ff51d68-292c-458a-954c-f84c36a0539a",
-            "mirrorX": true,
+            "mirrorX": false,
             "mirrorY": false,
             "rotation": 0,
             "scale": 1,
@@ -203,7 +203,7 @@
         "clearHoleMaterial": false,
         "cutterDiameter": 3,
         "feedrateRapid": 800,
-        "feedrateXY": 400,
+        "feedrateXY": 500,
         "feedrateZ": 100,
         "includeMCommands": true,
         "spindleSpeed": 10000,
@@ -211,7 +211,7 @@
         "stepOver": 0.45,
         "tabWidth": 0.5,
         "tabsEnabled": true,
-        "throughCutExtraDepth": 0.2,
+        "throughCutExtraDepth": 0,
         "travelZ": 3
     },
     "setup": {
