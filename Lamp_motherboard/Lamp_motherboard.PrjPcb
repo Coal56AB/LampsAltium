@@ -263,78 +263,22 @@ DocumentPath=Project Outputs for Lamp_motherboard\Design Rule Check - Lamps_moth
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Lamp_motherboard\Lamps_motherboard.RUL
 DItemRevisionGUID=
 
