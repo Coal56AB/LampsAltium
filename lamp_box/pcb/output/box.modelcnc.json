@@ -116,36 +116,88 @@
             "path": "side_right.STL",
             "width": 75.5,
             "zAxis": 0
+        },
+        {
+            "depth": 67,
+            "flip": false,
+            "height": 3,
+            "id": "64833d58-02b0-4941-8214-b8a592a44a6a",
+            "path": "bottom.stl",
+            "width": 123,
+            "zAxis": 2
+        },
+        {
+            "depth": 67,
+            "flip": false,
+            "height": 3,
+            "id": "bd8cf974-c684-404e-9000-e755b303d2af",
+            "path": "bottom_lower.stl",
+            "width": 123,
+            "zAxis": 2
+        },
+        {
+            "depth": 113,
+            "flip": false,
+            "height": 3,
+            "id": "5f1e23ce-385c-4cc6-a03b-369dc743c598",
+            "path": "front.stl",
+            "width": 37.5,
+            "zAxis": 1
+        },
+        {
+            "depth": 113,
+            "flip": true,
+            "height": 3,
+            "id": "5e9ab81e-5b54-4e92-af59-47e2f8e1d38a",
+            "path": "rear.stl",
+            "width": 37.5,
+            "zAxis": 1
+        },
+        {
+            "depth": 37.5,
+            "flip": false,
+            "height": 3,
+            "id": "390f3fe1-8138-4ccc-a5cc-b8246c4c5d13",
+            "path": "side_left.stl",
+            "width": 51,
+            "zAxis": 0
+        },
+        {
+            "depth": 37.5,
+            "flip": true,
+            "height": 3,
+            "id": "23555837-8eb5-4459-b8b4-7a5ce8a3534e",
+            "path": "side_right.stl",
+            "width": 51,
+            "zAxis": 0
+        },
+        {
+            "depth": 57,
+            "flip": true,
+            "height": 3,
+            "id": "1e3f1e92-1ca8-40e8-98ef-406dd2d75fc2",
+            "path": "top.stl",
+            "width": 113,
+            "zAxis": 2
         }
     ],
     "instances": [
         {
-            "assetId": "7b30cb02-ca2c-4a05-8f2b-81df606c9ef1",
+            "assetId": "64833d58-02b0-4941-8214-b8a592a44a6a",
             "enabled": true,
-            "id": "c252ba29-d760-4044-87b3-5151b7300d13",
+            "id": "4d24618a-4c19-4635-80d2-3eee0eff6e74",
             "mirrorX": true,
             "mirrorY": false,
-            "rotation": 270,
+            "rotation": 0,
             "scale": 1,
             "x": 0,
-            "y": 152
+            "y": 0
         },
         {
-            "assetId": "951018e6-26ba-40db-853d-d5451b2ab43c",
+            "assetId": "bd8cf974-c684-404e-9000-e755b303d2af",
             "enabled": true,
-            "id": "e7e2a08f-1eab-46bd-914b-3c2efc7e9d19",
-            "mirrorX": true,
-            "mirrorY": false,
-            "rotation": 270,
-            "scale": 1,
-            "x": 116,
-            "y": 152
-        },
-        {
-            "assetId": "6276d813-d761-4f6a-8395-6fa085364b11",
-            "enabled": true,
-            "id": "f985958a-8751-4c56-9f31-4140771333be",
-            "mirrorX": true,
+            "id": "b9f877c0-225d-41f5-b295-3de3589cf31d",
+            "mirrorX": false,
             "mirrorY": false,
             "rotation": 0,
             "scale": 1,
@@ -153,48 +205,59 @@
             "y": 76
         },
         {
-            "assetId": "b2f391f9-e5cb-4af1-b732-03c633dff1b9",
+            "assetId": "5f1e23ce-385c-4cc6-a03b-369dc743c598",
             "enabled": true,
-            "id": "5134dd7f-7092-4d1f-bf0d-a84b5fb8320f",
+            "id": "1d5fcfee-d094-4e0b-aa65-b04d9a83d89a",
             "mirrorX": false,
             "mirrorY": false,
-            "rotation": 180,
+            "rotation": 90,
             "scale": 1,
             "x": 0,
+            "y": 152
+        },
+        {
+            "assetId": "5e9ab81e-5b54-4e92-af59-47e2f8e1d38a",
+            "enabled": true,
+            "id": "6cc31e0b-9c90-4daf-ba69-7002d24bffd6",
+            "mirrorX": false,
+            "mirrorY": false,
+            "rotation": 90,
+            "scale": 1,
+            "x": 116,
+            "y": 152
+        },
+        {
+            "assetId": "390f3fe1-8138-4ccc-a5cc-b8246c4c5d13",
+            "enabled": true,
+            "id": "6e652eb3-1e22-4129-81d4-fe4c80906052",
+            "mirrorX": true,
+            "mirrorY": false,
+            "rotation": 90,
+            "scale": 1,
+            "x": 192,
             "y": 0
         },
         {
-            "assetId": "3e5a44b9-23be-47a8-a736-2c3ef65cb0c6",
+            "assetId": "23555837-8eb5-4459-b8b4-7a5ce8a3534e",
             "enabled": true,
-            "id": "5ff51d68-292c-458a-954c-f84c36a0539a",
+            "id": "8b6183ec-a8f1-4103-8b51-328f3ea367d5",
+            "mirrorX": false,
+            "mirrorY": false,
+            "rotation": 90,
+            "scale": 1,
+            "x": 192,
+            "y": 63
+        },
+        {
+            "assetId": "1e3f1e92-1ca8-40e8-98ef-406dd2d75fc2",
+            "enabled": true,
+            "id": "50f6af3f-6685-4b90-8692-9ed854ea52f6",
             "mirrorX": false,
             "mirrorY": false,
             "rotation": 90,
             "scale": 1,
             "x": 126,
             "y": 0
-        },
-        {
-            "assetId": "76f8c7a0-ff7b-4d74-8a14-a14f223e3580",
-            "enabled": true,
-            "id": "b97ec3c6-8b63-43d4-bd8f-36aabe6b2f7d",
-            "mirrorX": false,
-            "mirrorY": false,
-            "rotation": 90,
-            "scale": 1,
-            "x": 192,
-            "y": 0
-        },
-        {
-            "assetId": "226b26be-4b85-4bca-a6c3-bea093188885",
-            "enabled": true,
-            "id": "e44f60a1-69d0-486e-8ce8-6d306000c1b0",
-            "mirrorX": false,
-            "mirrorY": false,
-            "rotation": 90,
-            "scale": 1,
-            "x": 192,
-            "y": 63.778403
         }
     ],
     "outputDir": "F:/Work/CNC/CNC Software/CNCGerber/cam-output",
